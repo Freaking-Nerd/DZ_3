@@ -1,0 +1,19 @@
+.Todo {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input {
+  padding: 5px;
+  margin-right: 5px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
+
